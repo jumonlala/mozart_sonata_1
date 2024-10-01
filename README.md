@@ -25,9 +25,6 @@ In his Piano Sonata No. 1 in C Major (K. 279), Wolfgang Amadeus Mozart uses dive
 
 ## Bibliography
 
-Burkholder, J. Peter, Donald Jay Grout, and Claude V. Palisca. A History of Western Music (tenth 
-            edition). W. W. Norton & Company, 2019.
+Burkholder, J. Peter, Donald Jay Grout, and Claude V. Palisca. A History of Western Music (tenth edition). W. W. Norton & Company, 2019.
             
-Petty, Wayne C. “Koch, Schenker, and the Development Section of Sonata Forms by C. P. E.    
-           Bach.” Music Theory Spectrum 21, no. 2 (October 1999): 151–73.  
-           https://doi.org/10.1525/mts.1999.21.2.02a00010.
+Petty, Wayne C. “Koch, Schenker, and the Development Section of Sonata Forms by C. P. E. Bach.” Music Theory Spectrum 21, no. 2 (October 1999): 151–73. https://doi.org/10.1525/mts.1999.21.2.02a00010.
